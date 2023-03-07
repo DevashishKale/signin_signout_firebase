@@ -1,6 +1,6 @@
 # signin_firebase
 
-A new Flutter project.
+A new Flutter project made by Devashish Kale.
 
 ## Getting Started
 
